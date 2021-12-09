@@ -1,0 +1,2 @@
+# ExpressionCalculator
+Small project 
